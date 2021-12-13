@@ -1,4 +1,5 @@
 import React from 'react';
+import Checkout from '../Checkout/Checkout';
 import {
   SidebarContainer,
   Icon,
@@ -17,9 +18,10 @@ const Cart = ({ isOpen, toggle }) => {
       </Icon>
       <SidebarMenu>
         <SidebarLink to='/'>Products</SidebarLink>
+        <SidebarLink to='/'>Featured</SidebarLink>
       </SidebarMenu>
       <SideBtnWrap>
-        <SidebarRoute to='/'>Order Now</SidebarRoute>
+        <SidebarRoute component={Checkout} to='/checkout'>Checkout</SidebarRoute>
       </SideBtnWrap>
     </SidebarContainer>
   );

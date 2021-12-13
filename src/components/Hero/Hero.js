@@ -23,9 +23,9 @@ const Hero = () => {
       <Cart isOpen={isOpen} toggle={toggle} />
       <HeroContent>
         <HeroItems>
-          <HeroH1>High quality hardware.</HeroH1>
-          <HeroP>Made for you.</HeroP>
-          <HeroBtn>Order now</HeroBtn>
+          <HeroH1>This is Meta.</HeroH1>
+          <HeroP>Made for Immersion.</HeroP>
+          <HeroBtn>Order Now</HeroBtn>
         </HeroItems>
       </HeroContent>
     </HeroContainer>

@@ -2,28 +2,28 @@ export const productData = [
     {
       img: '',
       alt: 'Product1',
-      name: 'Product 1',
+      name: 'HAVEN',
       desc:
         'Description.',
-      price: '$29.99',
+      price: '$499.99',
       button: 'Add to Cart'
     },
     {
       img: '',
       alt: 'Product2',
-      name: 'Product 2',
+      name: 'COVE',
       desc:
         'Description',
-      price: '$39.99',
+      price: '$399.99',
       button: 'Add to Cart'
     },
     {
       img: '',
       alt: 'Product3',
-      name: 'Product 3',
+      name: 'FJORD',
       desc:
         'Description',
-      price: '$49.99',
+      price: '$299.99',
       button: 'Add to Cart'
     }
   ];
@@ -32,28 +32,28 @@ export const productData = [
     {
       img: '',
       alt: 'ProductAccessory1',
-      name: 'Accessory 1',
+      name: 'Ready Bundle',
       desc:
         'Description',
-      price: '$5.99',
+      price: '$149.99',
       button: 'Add to Cart'
     },
     {
       img: '',
       alt: 'ProductAccessory2',
-      name: 'Accessory 2',
+      name: 'Charging Dock',
       desc:
         'Description',
-      price: '$12.99',
+      price: '$99.99',
       button: 'Add to Cart'
     },
     {
       img: '',
       alt: 'ProductAccessory3',
-      name: 'Accessory 3',
+      name: 'Lens',
       desc:
         'Description',
-      price: '$19.99',
+      price: '$79.99',
       button: 'Add to Cart'
     }
   ];
