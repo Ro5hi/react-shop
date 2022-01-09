@@ -1,5 +1,5 @@
 import React from 'react';
-import { FeatureContainer, FeatureButton } from './FeaturedStyles';
+import { FeatureContainer } from './FeaturedStyles';
 
 const Featured = () => {
   return (
