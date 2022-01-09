@@ -17,7 +17,7 @@ export const productData = [
       alt: 'Product2',
       name: 'EIR',
       desc:
-        'True-to-life immersion',
+        'True-to-life immersion for veterans.',
       price: '$399.99',
       button: 'Add to Cart'
     },
@@ -26,7 +26,7 @@ export const productData = [
       alt: 'Product3',
       name: 'LUNA',
       desc:
-        'Made for those who are diving into the experience for the first time',
+        'Made for those who are diving into the experience for the first time.',
       price: '$299.99',
       button: 'Add to Cart'
     }
