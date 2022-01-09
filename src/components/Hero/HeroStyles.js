@@ -1,9 +1,14 @@
 import styled from 'styled-components';
+import imagebg from '../../imgs/splash.jpg';
 
 export const HeroContainer = styled.div`
-  height: 100vh;
+  height: 80vh;
   background-position: center;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
+    url(${imagebg});
 `;
 
 export const HeroContent = styled.div`

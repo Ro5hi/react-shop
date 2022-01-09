@@ -1,6 +1,10 @@
+import haven from '../../imgs/3.png';
+import eir from '../../imgs/2.png';
+import luna from '../../imgs/1.png';
+
 export const productData = [
     {
-      img: '',
+      img: haven,
       alt: 'Product1',
       name: 'HAVEN',
       desc:
@@ -9,18 +13,18 @@ export const productData = [
       button: 'Add to Cart'
     },
     {
-      img: '',
+      img: eir,
       alt: 'Product2',
-      name: 'COVE',
+      name: 'EIR',
       desc:
         'Description',
       price: '$399.99',
       button: 'Add to Cart'
     },
     {
-      img: '',
+      img: luna,
       alt: 'Product3',
-      name: 'FJORD',
+      name: 'LUNA',
       desc:
         'Description',
       price: '$299.99',
@@ -32,28 +36,28 @@ export const productData = [
     {
       img: '',
       alt: 'ProductAccessory1',
-      name: 'Ready Bundle',
+      name: 'Ready Up Bundle',
       desc:
         'Description',
-      price: '$149.99',
+      price: '$199.99',
       button: 'Add to Cart'
     },
     {
       img: '',
       alt: 'ProductAccessory2',
-      name: 'Charging Dock',
+      name: 'Camera Sensors',
       desc:
         'Description',
-      price: '$99.99',
+      price: '$129.99',
       button: 'Add to Cart'
     },
     {
       img: '',
       alt: 'ProductAccessory3',
-      name: 'Lens',
+      name: 'Charging Dock',
       desc:
         'Description',
-      price: '$79.99',
+      price: '$99.99',
       button: 'Add to Cart'
     }
   ];
