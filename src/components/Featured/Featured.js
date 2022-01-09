@@ -5,7 +5,7 @@ const Featured = () => {
   return (
     <FeatureContainer>
       <h1>Product of the Day</h1>
-      <p>COVE</p>
+      <p>HAVEN</p>
     </FeatureContainer>
   );
 };

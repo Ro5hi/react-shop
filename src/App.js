@@ -16,7 +16,7 @@ function App({ children, title }) {
   return (
     <Router>
         <Hero />
-          <Products heading='Choose yours' data={productData} />
+          <Products heading='Choose Yours.' data={productData} />
           <Featured />
           <Products heading='Accessories' data={productDataTwo} />
           <Elements stripe={stripePromise}>{children}</Elements>
