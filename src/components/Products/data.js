@@ -8,7 +8,7 @@ export const productData = [
       alt: 'Product1',
       name: 'HAVEN',
       desc:
-        'Description.',
+        'Light-weight with full features.',
       price: '$499.99',
       button: 'Add to Cart'
     },
@@ -17,7 +17,7 @@ export const productData = [
       alt: 'Product2',
       name: 'EIR',
       desc:
-        'Description',
+        'True-to-life immersion',
       price: '$399.99',
       button: 'Add to Cart'
     },
@@ -26,7 +26,7 @@ export const productData = [
       alt: 'Product3',
       name: 'LUNA',
       desc:
-        'Description',
+        'Made for those who are diving into the experience for the first time',
       price: '$299.99',
       button: 'Add to Cart'
     }
